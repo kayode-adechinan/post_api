@@ -1,0 +1,102 @@
+[
+  {
+    "model": "post.post",
+    "pk": 1,
+    "fields": {
+      "author": "Manu",
+      "author_avatar": "https://static.pexels.com/photos/428339/pexels-photo-428339.jpeg",
+      "content":"Les boutiques Daniels sont nulles. Découvrir pourquoi.",
+      "like":"12000"
+    }
+  },
+  {
+    "model": "post.post",
+    "pk": 2,
+    "fields": {
+      "author": "Manu",
+      "author_avatar": "https://static.pexels.com/photos/428339/pexels-photo-428339.jpeg",
+      "content":"Je vous deconseille Oris Assurance. Une grande arnaque",
+      "like":"11000"
+    }
+  },
+  {
+    "model": "post.post",
+    "pk": 3,
+    "fields": {
+      "author": "Epi",
+      "author_avatar": "https://static.pexels.com/photos/447189/pexels-photo-447189.jpeg",
+      "content":"Vous cherchez un appart moins cher ? Je vous conseille Mello Immo.",
+      "like":"10000"
+    }
+  },
+  {
+    "model": "post.post",
+    "pk": 4,
+    "fields": {
+      "author": "Juliette",
+      "author_avatar": "https://static.pexels.com/photos/797408/pexels-photo-797408.jpeg",
+      "content":"Lizer correctement la posologie des médicaments que vous prenez",
+      "like":"9000"
+    }
+  },
+  {
+    "model": "post.post",
+    "pk": 5,
+    "fields": {
+      "author": "Audrey",
+      "author_avatar": "https://static.pexels.com/photos/61100/pexels-photo-61100.jpeg",
+      "content":"On devrait tous les fermez. Les boutiques Otrides",
+      "like":"8000"
+    }
+  },
+  {
+    "model": "post.post",
+    "pk": 6,
+    "fields": {
+      "author": "Vanessa",
+      "author_avatar": "https://static.pexels.com/photos/799420/pexels-photo-799420.jpeg",
+      "content":"Mais pourquoi bazoo.com est si lent.",
+      "like":"7000"
+    }
+  },
+  {
+    "model": "post.post",
+    "pk": 7,
+    "fields": {
+      "author": "John",
+      "author_avatar": "Lennon",
+      "content":"Comment se passez d'EDF",
+      "like":"6000"
+    }
+  },
+  {
+    "model": "post.post",
+    "pk": 8,
+    "fields": {
+      "author": "John",
+      "author_avatar": "https://static.pexels.com/photos/541523/pexels-photo-541523.jpeg",
+      "content":"Conseil ciné: Minuit en Italie",
+      "like":"5000"
+    }
+  },
+  {
+    "model": "post.post",
+    "pk": 9,
+    "fields": {
+      "author": "Arvin",
+      "author_avatar": "https://static.pexels.com/photos/796526/pexels-photo-796526.jpeg",
+      "content":"Je vous avais prévenu",
+      "like":"4000"
+    }
+  },
+  {
+    "model": "post.post",
+    "pk": 10,
+    "fields": {
+      "author": "Hazel",
+      "author_avatar": "https://static.pexels.com/photos/788732/pexels-photo-788732.jpeg",
+      "content":"Voici un bon assureur: Xavier Assurance",
+      "like":"3000"
+    }
+  }
+]
